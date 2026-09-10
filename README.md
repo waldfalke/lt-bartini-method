@@ -1,6 +1,6 @@
 # lt-bartini-method
 
-**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · **Author:** [@waldfalke](https://github.com/waldfalke) · **Language:** Russian · **Runtime deps:** none
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — free for non-commercial use, **commercial use requires the author's permission** · **Author:** [@waldfalke](https://github.com/waldfalke) · **Language:** Russian · **Runtime deps:** none
 
 An agent skill for resolving engineering and inventive contradictions with the LT method of
 Bushuev–Bartini–Kuznetsov. Conflicting factors are assigned physical dimensions `LᵐTⁿ` from
@@ -83,18 +83,26 @@ git clone https://github.com/waldfalke/lt-bartini-method \
 
 ## Лицензия и атрибуция
 
-Содержимое — под **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**, полный текст
-в [`LICENSE`](LICENSE).
+Содержимое — под **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**, полный
+текст в [`LICENSE`](LICENSE), авторские права и порядок коммерческого лицензирования — в
+[`NOTICE.md`](NOTICE.md).
 
-- Пользоваться, копировать, переделывать, применять коммерчески — **можно**.
+- Изучать, применять у себя, копировать, переделывать и развивать — **можно**, некоммерчески.
 - Указывать авторство — **обязательно**. Снять имя и выдать за своё — нарушение лицензии.
 - Производные наследуют эту же лицензию: взять корпус, дописать и закрыть результат как
-  проприетарный — нельзя. Это и есть механизм против присвоения.
+  проприетарный — нельзя.
+- **Коммерческое использование — только по отдельному письменному разрешению автора.** Продажа
+  корпуса или доступа к нему, включение в платный продукт или сервис, применение в возмездном
+  консалтинге, обучении и экспертизе. За лицензией — через issue или профиль
+  [@waldfalke](https://github.com/waldfalke).
 
 Форма атрибуции:
 
 > Основано на «lt-bartini-method» (© 2026 waldfalke,
-> https://github.com/waldfalke/lt-bartini-method), лицензия CC BY-SA 4.0.
+> https://github.com/waldfalke/lt-bartini-method), лицензия CC BY-NC-SA 4.0.
+
+Значка лицензии на странице репозитория нет: автоматический определитель GitHub не знает
+NC-вариантов Creative Commons. На действие лицензии это не влияет — она в `LICENSE` и здесь.
 
 ## Что здесь чьё
 
